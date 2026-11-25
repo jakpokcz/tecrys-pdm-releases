@@ -4,6 +4,15 @@
 <title>Tecrys PDM</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys PDM 0.8.0 (build 33)</title>
+<pubDate>Wed, 25 Nov 2026 19:34:18 -0000</pubDate>
+<sparkle:version>33</sparkle:version>
+<sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Works with Tecrys Vault servers on 32-bit computers (32-bit Raspberry Pi OS).</li><li>An error without a message now names what the vault answered.</li></ul>]]></description>
+<enclosure url="https://github.com/jakpokcz/tecrys-pdm-releases/releases/download/pdm-v0.8.0-33/TecrysPDM-0.8.0-33.dmg" sparkle:edSignature="n0rcFilQUJSrIYRCO7dDY9moItxRdgFVAwX+NBtrr4CtAZgDO0CHPEYymLWQJJxvBH0xiBmPJgVPbZ8krqvODw==" length="7415897" type="application/octet-stream" sparkle:os="macos"/>
+</item>
+<item>
 <title>Tecrys PDM 0.8.0 (build 32)</title>
 <pubDate>Wed, 25 Nov 2026 07:06:01 -0000</pubDate>
 <sparkle:version>32</sparkle:version>
