@@ -4,6 +4,15 @@
 <title>Tecrys PDM</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys PDM 0.8.0 (build 32)</title>
+<pubDate>Wed, 25 Nov 2026 07:06:01 -0000</pubDate>
+<sparkle:version>32</sparkle:version>
+<sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Help ▸ Suggest a Feature… and Report a Problem… open the forms on github.com/jakpokcz/tecrys-pdm-releases, with your version and platform filled in.</li></ul>]]></description>
+<enclosure url="https://github.com/jakpokcz/tecrys-pdm-releases/releases/download/pdm-v0.8.0-32/TecrysPDM-0.8.0-32.dmg" sparkle:edSignature="rvJbii2vcDyDxRKVIyRVcMoVY5apNicTxW9goSMMWOgmydkSUkVQE4M0RZkhG1G9+msnK3/3XO0ZWMJthMOgCA==" length="7415325" type="application/octet-stream" sparkle:os="macos"/>
+</item>
+<item>
 <title>Tecrys PDM 0.8.0 (build 31)</title>
 <pubDate>Wed, 25 Nov 2026 06:55:53 -0000</pubDate>
 <sparkle:version>31</sparkle:version>

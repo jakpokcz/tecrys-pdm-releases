@@ -4,6 +4,14 @@
 <title>Tecrys PDM</title>
 <!-- items, newest first -->
 <item>
+<title>Tecrys PDM 0.8.0 (build 32)</title>
+<pubDate>Wed, 25 Nov 2026 07:06:01 -0000</pubDate>
+<sparkle:version>32</sparkle:version>
+<sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Help ▸ Suggest a Feature… and Report a Problem… open the forms on github.com/jakpokcz/tecrys-pdm-releases, with your version and platform filled in.</li></ul>]]></description>
+<enclosure url="https://github.com/jakpokcz/tecrys-pdm-releases/releases/download/pdm-v0.8.0-32/TecrysPDM-0.8.0-32-windows-arm64.exe" sparkle:edSignature="G3o2vyCbJx1CEWKZPVKOGld3DLUYcSWmUwDf2rTLL/oDgkjmI0sREuWaJpQ3+aHIeGXubH+k5FYX9cXaLssQAA==" length="23529177" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+<item>
 <title>Tecrys PDM 0.8.0 (build 31)</title>
 <pubDate>Wed, 25 Nov 2026 06:55:53 -0000</pubDate>
 <sparkle:version>31</sparkle:version>
