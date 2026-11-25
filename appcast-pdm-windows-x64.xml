@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Tecrys PDM</title>
+<!-- items, newest first -->
+<item>
+<title>Tecrys PDM 0.8.0 (build 31)</title>
+<pubDate>Wed, 25 Nov 2026 06:55:53 -0000</pubDate>
+<sparkle:version>31</sparkle:version>
+<sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+<description><![CDATA[<ul><li>Shows a notice above the file list when the vault is read-only, or when its trial or licence ends soon.</li><li>Updates now come from github.com/jakpokcz/tecrys-pdm-releases.</li><li>Works with vaults served by Tecrys Vault (built-in, PostgreSQL or MariaDB databases).</li></ul>]]></description>
+<enclosure url="https://github.com/jakpokcz/tecrys-pdm-releases/releases/download/pdm-v0.8.0-31/TecrysPDM-0.8.0-31-windows-x64.exe" sparkle:edSignature="3kAxxLzD26d1FMqKR0jmLDRRWJgyIYeA3ICgOUYsqu4XdZl+3ocg9pvU16uiRh+oQSQyeD61GOQnpbF4lgMzDA==" length="19331295" type="application/octet-stream" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS"/>
+</item>
+</channel>
+</rss>
