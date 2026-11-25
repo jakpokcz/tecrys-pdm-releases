@@ -1,0 +1,33 @@
+name: Suggest a feature
+description: Something Tecrys PDM should do, or do better
+labels: [request, new]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you like Tecrys PDM to do?
+      description: Describe it as you would use it — which command, which clicks, what result.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it matter to you?
+      description: The task it helps with, or how you work around it today.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options: [Mac, Windows, Both]
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Tecrys PDM version
+      description: Shown in About Tecrys PDM, e.g. 0.8.0 (31).
+  - type: textarea
+    id: pictures
+    attributes:
+      label: Screenshots or files
+      description: Drag images or small files here (optional).

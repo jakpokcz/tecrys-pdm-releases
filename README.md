@@ -12,4 +12,7 @@ command line: on the Mac inside the app (`Tecrys PDM.app/Contents/MacOS`), in Wi
   through *Check for Updates…* in the app and need no approval.
 - Tecrys PDM is free to download; it is not open source.
 
+**Ideas and problems**: [open an issue](../../issues/new/choose) (Suggest a feature / Report a problem;
+a free GitHub account is needed), or in the app: Help ▸ Suggest a Feature… / Report a Problem….
+
 The `appcast-*.xml` files are the update feeds (signed with the Tecrys update key); don't edit them by hand.
